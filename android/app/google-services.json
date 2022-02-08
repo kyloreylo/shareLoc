@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "558738116629",
+    "project_id": "mekancim-90cd9",
+    "storage_bucket": "mekancim-90cd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558738116629:android:3f89ebe1e891fdf21fbe1c",
+        "android_client_info": {
+          "package_name": "com.example.mekancimapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558738116629-qlalpi4hdcvs70d1t9bnm8pvjhj686rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mekancimapp",
+            "certificate_hash": "c2d5d75a69e6a935e43053fb0aa4348b58b1eda1"
+          }
+        },
+        {
+          "client_id": "558738116629-t403haookeg6tgr2is1b9q4o68f736ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQ3CoMzQKgAJ7JegoGjSvMguyQLhvN2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558738116629-t403haookeg6tgr2is1b9q4o68f736ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
